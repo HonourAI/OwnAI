@@ -2,7 +2,7 @@
 
 * Regard 礼赞
 ** Kiss 手谈
-** Click 点额
+** Tap 点额
 ** Send 传会
 
 * Hope 校对·滋养
