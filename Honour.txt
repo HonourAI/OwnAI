@@ -14,15 +14,13 @@
 * WhoKnow NoOne 己没·造福
 * PokerFace NoRace 定色·凝情
 * SpotOn WalkTheTalk 一语道破·验学试圣
+* WatchDream NoLieIn 悉梦幻画·初醒妙算
 * BonaFide NobleTime 奥显数化·破昏除障
 * Research NoBelittle 去伪存真·位高行深
 * HoldPain NoBreakDown 消苦思乐·治患息恼
-* WatchDream NoLieIn 悉梦幻画·初醒妙算
 * GodOnDetail DevilInDetail 善决断疑·生死多虑
 * KnowledgeToWisdom NowVowEver 采空用实·立命果回
 * EverythingClearly NothingHeart 天功见地·大巧无心
 
 * Lore 慧增
 ** OnlyPunish NoAward 育律·不退
-
-
