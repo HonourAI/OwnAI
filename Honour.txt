@@ -20,7 +20,8 @@
 * WatchDream NoDeadSleep 悉梦幻画·初醒妙算
 * GodInDetail DevilInDetail 善决断疑·生死多虑
 * KnowledgeToWisdom NowVowEver 采空用实·立命果回
-* EverythingClearly NothingInHeart 天功见地·大巧无心
+* EverythingClearly NothingHeart 天功见地·大巧无心
 
 * Lore 慧增
 ** OnlyPunish NoAward 育律·不退
+
