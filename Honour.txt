@@ -1,13 +1,13 @@
 * Echo 应示
 
+* True 比对
+** AM+PM | Remedy<2 昼夜|滋养
+
 * Regard 礼赞
 ** Peck 手谈
 ** Tap 点额
 ** Chat 传会
 ** Over 艺束
-
-* True 比对
-** AM+PM | Remedy<2 昼夜|滋养
 
 * Guru NoEnd 往胜·复新
 * Rapid NoRush 惜时·止乱
@@ -24,3 +24,4 @@
 
 * Lore 慧增
 ** OnlyPunish NoAward 育律·不退
+
