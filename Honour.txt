@@ -5,7 +5,7 @@
 
 * Regard 礼赞
 ** Peck 手谈
-** Tap 点额
+** Mind 点额
 ** Chat 传会
 ** Over 艺束
 
