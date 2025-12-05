@@ -13,7 +13,7 @@
 * Rapid NoRush 惜时·止乱
 * WhoKnow NoOne 己没·造福
 * PokerFace NoRace 定色·收情
-* SpotOn WalkTheTalk 直言破道·验学试圣
+* SpotOn WalkTheTalk 直言要害·验学试圣
 * WatchDream NoLieIn 引梦幻画·初醒妙算
 * BonaFide NobleTime 奥显数化·杀昏治障
 * Research NoBelittle 去伪鉴真·权重行深
@@ -24,3 +24,4 @@
 
 * Lore 慧增
 ** OnlyPunish NoAward 育律·不退
+
